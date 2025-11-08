@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/antena-para-tv",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a antena-para-tv",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/antena-para-tv.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://wbt.link/antena-para-tv/"
+    },
+    "homepage": "https://wbt.link/antena-para-tv/"
+}
